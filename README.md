@@ -16,7 +16,7 @@
 
 Анализ дискуссионности тем - `discussions_analysis`
 
-#### Ссылка на яндекс-диск с .json и .xlsx файлами с данными: 
+#### Ссылка на яндекс-диск с .json и .xlsx файлами с данными:  https://disk.360.yandex.ru/client/disk/Данные%20для%20курсовой%20работы
 
 `sent_an` -  результаты применения тематического моделирования и анализа тональностей, содержит следующие столбцы :post_id, post, tokens, date, comm_id, comm, topic, month, negative, neutral, positive, sentiment, tone_score
 
